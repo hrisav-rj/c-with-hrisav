@@ -41,7 +41,32 @@ int main(){
     // printf("Simple Interest: %.2f\n", si);
 
 
-    // WAP
+    // WAP to swap two numbers
+    // int num1, num2;
+    // printf("Enter first number: ");
+    // scanf("%d", &num1);
+    // printf("Enter second number: ");
+    // scanf("%d", &num2);
+    // int temp = num1;
+    // num1 = num2;
+    // num2 = temp;
+    // printf("The value of num1 = %d and num2 = %d\n", num1, num2);
+
+
+    // WAP to swap two numbers without 3rd variable
+    // int n1, n2;
+    // printf("Enter first number: ");
+    // scanf("%d", &n1);
+    // printf("Tnter second number: ");
+    // scanf("%d", &n2);
+    // n1 += n2;
+    // n2 = n1 - n2;
+    // n1 = n1 - n2;
+    // printf("Num1 = %d\nNum2 = %d\n", n1, n2);
+
+
+    // WAP to
+
 
 
     return 0;

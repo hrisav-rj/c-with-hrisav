@@ -15,7 +15,13 @@ int main(){
     \\ for adding \ in print string
     \" for adding "" in print string
     */
-    printf("My name is \"Anthony\".\nWhat is your name?\n");
+    // printf("My name is \"Anthony\".\nWhat is your name?\n");
+
+
+    // // Typecasting in C
+    // float a = 4544.555;
+    // int b = (int) a;
+    // printf("b: %d\n", b);
     
 
     return 0;
